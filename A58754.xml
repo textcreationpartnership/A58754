@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for securing the peace of the High-lands Edinburgh, the tenth day of October, 1678.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58754</idno>
+            <idno type="STC">Wing S1913</idno>
+            <idno type="STC">ESTC R35165</idno>
+            <idno type="EEBO-CITATION">15048720</idno>
+            <idno type="OCLC">ocm 15048720</idno>
+            <idno type="VID">103109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58754)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103109)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1578:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for securing the peace of the High-lands Edinburgh, the tenth day of October, 1678.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1660-1688.</term>
+               <term>Highlands (Scotland) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103109:1"/>
+            <pb facs="tcp:103109:1"/>
+            <p>A PROCLAMATION, For ſecuring the PEACE OF THE HIGH-LANDS. Edinburgh, <hi>the tenth day of</hi> October, 1678.</p>
+            <figure>
+               <head>C R</head>
+               <q>HONI SOT QUI MAL Y PENSE</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>MAJESTY.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:103109:2"/>
+            <pb n="3" facs="tcp:103109:2"/>
+            <head>A PROCLAMATION, For ſecuring the Peace of the <hi>Highlands.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>Edinburgh,</hi> 
+                  <date>the 10, day of <hi>October,</hi> 1678.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>HARLES,</hi> by the Grace of GOD, King of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> De<g ref="char:EOLhyphen"/>fender of the Faith; To <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Macers or Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially con<g ref="char:EOLhyphen"/>ſtitute, and to all and ſundry whom theſe preſents do or may concern, Greeting: Foraſmuch as the quieting of the Highlands and Iſles, and the dutiful and peaceable carriage and deportment of the Inhabitants within the ſame, is of great concernment, not onely as to the peace and intereſt of the Shires and Bounds where they live, being a large and conſiderable part of Our Kingdom; but alſo of the neighbouring and adjacent Countries and Shires, which ly open and are ſubject to the incurſions, depredations, and the barbarous cruelty and oppreſſion of Theeves, Sorners and broken men, when the Highlands are in diſorder. And upon the conſideration foreſaid, We and Our Royal Anceſtors have been moſt careful to preſerve and ſecure the quiet and peace of the ſaid Highlands and Iſles; and in order thereto, from time to time, with advice of the Eſtates of Parliament, and of their Privy Council, have made and emitted divers good Laws, Statutes, Acts of Parliament and Council, Proclamations, and Orders, and in ſpecial, by the nine<g ref="char:EOLhyphen"/>ty two <hi>Act</hi> of King <hi>James</hi> the ſixth, in his eleventh <hi>Parliament,</hi> Our Roal Grandfather of bleſſed memory, entituled, <hi>Anent the quieting of diſordered Subjects, Inhabitants of the Borders, Highlands and Iſles;</hi> It is ſtatute, that a certain time ſhall be ſet apart by the Lords of Privy Council, to receive, hear and anſwer all complaints concern<g ref="char:EOLhyphen"/>ing the diſordered and troubleſome Subjects inhabitants of the High<g ref="char:EOLhyphen"/>lands, and attempts committed by them upon Our good and peace<g ref="char:EOLhyphen"/>able Subjects of the In-countrey; and that a particular Regiſter be keeped of all things that ſhall happen to be done and directed, in matters concerning the quietneſs and good rules of the Highlands, in manner contained at length in the ſaid Act. And by the ninety three Act of the foreſaid Parliament, it is ſtatute, that all Landlords and Bailiffs in the Highlands, where broken men have dwelt or do dwell, ſhould be charged to find ſufficient caution and ſoverty landed men in the In-countrey, under the pain of rebellion in manner after-mentioned; That is to ſay, If any of their Men-tennents, Servants
+<pb n="4" facs="tcp:103109:3"/>or Indwellers upon their Lands, Steedings, Rooms and Poſſeſſions, or within their Baileries, ſhall commit any maſterful reef, theft, or reſſet of theft, depredations, open and avowed fire-raiſings upon deedly feeds, That the Landlords and Bailiffs upon whoſe Lands and in whoſe Juriſdiction they dwell, ſhall bring and preſent the perſons complained upon to juſtice, to abide tryal and underly the Law for the ſame, and that the ſaids Landlords and Bailiffs ſhall ſatisfie the parties skaithed and grieved, in manner therein mentioned. And likewiſe, that the Landlords and Bailiffs concur, fortifie and aſſiſt others in removing all perſons diſobedient to Our Laws, or fugitives therefrom, out of their Lands and Poſſeſſions; And in caſe any refuſe to concur to the effect foreſaid, that it ſhall be lawful to purſue the perſon refuſing and his Cautioner, for redreſs of the skaith ſuſtained by the party hurt, and the Landlords and Bailiffs to have their re<g ref="char:EOLhyphen"/>lief of the perſon refuſing: And in caſe any perſon, Landlord or Bai<g ref="char:EOLhyphen"/>liff receive or reſſet any perſon fugitive, after the committing of the crime, upon their Lands, and ſtayes and arreſts them not when they paſs through their bounds with any other mens Goods reft or ſtollen, that they ſhall be holden to bring and preſent the perſon offending to Juſtice, and to ſatisfie and redreſs the parties skaithed, in manner therein contained. And that the chief of the Clan, in the bounds where broken men dwells, and through which they repair in their paſſing to ſteal and reeve or returning therefrom, ſhall be bound to make the like ſtay and arreſtment as the Landlords or Bai<g ref="char:EOLhyphen"/>liffs, and ſhall be ſubject to the like redreſs and action criminal or civil, in caſe of their failzie or negligence, as the ſaid Act of Parlia<g ref="char:EOLhyphen"/>ment, containing divers other Heads and Articles to the ſame pur<g ref="char:EOLhyphen"/>poſe, at length bears. Likeas, in the foreſaid Parliament, <hi>Anno,</hi> one thouſand five hundred and eighty ſeven years, divers other Laws and Acts of Parliament are made and enacted to the ſame purpoſe, as appears by the hundred Act, entituled, <hi>The manner how Goods taken away may be repeated;</hi> and the hundred and two Act of the ſaid Parliament, entituled, <hi>Dittay ſhould be taken up anent black-mail;</hi> and by the hundred and third Act, Landlords and others ſhould preſent Treſpaſſers to Juſtice; and by the hundred and ninth Act of the ſaid Parliament, whereby it is ſtatute, that ſuch interpo<g ref="char:EOLhyphen"/>ſed perſons, as take upon them to ſell the Goods of Theeves and diſ<g ref="char:EOLhyphen"/>obedient Perſons and Clannes, that dare not come to publick Mer<g ref="char:EOLhyphen"/>cats in Low-lands themſelves, where-through, the execution of the Acts made againſt Sorners, Clannes and Theeves is greatly impeded, ſhall be puniſhed in manner therein contained. Likeas, by the two hundred and twenty ſeventh Act of King <hi>James</hi> the ſixth, Parlia<g ref="char:EOLhyphen"/>ment fourteenth, <hi>Anno,</hi> one thouſand five hundred and ninety four, entituled, <hi>For puniſhment of reef, theft, oppreſſion and ſorning,</hi> it is ſtatute, that there may be a perfect diſtinction by names and ſurnames be<g ref="char:EOLhyphen"/>twixt theſe that are, and deſire to be eſteemed honeſt and true men, and theſe who are, and are not aſhamed to be eſteemed Theeves, Sorners and Reſſetters of them in their wicked and odious crimes and deeds: That therefore there be a Roll and Catalogue made
+<pb n="5" facs="tcp:103109:3"/>of all perſons, and the ſurnames therein mentioned ſuſpected of ſlaughter, theft, reef, reſſet of theft, or theeves, or ſorners, in man<g ref="char:EOLhyphen"/>ner therein mentioned: And that all Landlords and Bailiffs be char<g ref="char:EOLhyphen"/>ged to find Soverty, to make their Men-tennents and Servants an<g ref="char:EOLhyphen"/>ſwerable to Juſtice, and to redreſs parties skaithed; and that the Chieftains of Clannes and principal of the Branches and Houſhol<g ref="char:EOLhyphen"/>ders thereof, be charged for the relief of the Landlords, in manner therein contained. And that no Landlord ſet his Land, nor ſuffer the ſame to be poſſeſt by any perſon, that being of a Clan finds not ſoverty to relieve his Landlord; and if the Landlord ſhall not take the ſaid ſoverty, that he ſhall be anſwerable to the party grieved cri<g ref="char:EOLhyphen"/>minally or civilly, as if he had done the deed himſelf: And that none of the ſaids Clannes or other broken men, their Wives, Bairns, Heirs, Executors or Aſſignayes, ſhall have action criminal or civil, againſt whatſoever perſons for ejection, ſpuilzie, ſlaughter or fire-raiſing, or other alledged violent deeds committed againſt them by any of Our Lieges, except they inſtruct with their Summons, that the perſons alledged hurt, ſpuilzied, flain or ejected, was Our free Liege man the time of that deed, and had found ſoverty to be an<g ref="char:EOLhyphen"/>ſwerable to Juſtice for relief of his Landlord, and to redreſs parties skaithed, and that every Thier and Sorner ſhall be eſteemed the man and Servant of him of whom he hath his Land in tillage or paſturage, or whom he accompanies at conventions, gatherings or at violent deeds, or upon whoſe ground the Thief, Reever or Sor<g ref="char:EOLhyphen"/>ner is reſſer, and tarrieth twelve hours together with the know<g ref="char:EOLhyphen"/>ledge of the Landlord, being of power to apprehend him, or who hath received Bond of Man-rent, or who hath given Bond of main<g ref="char:EOLhyphen"/>tainance to Theeves and Sorners, or receive their caulps and herzelds, or who hath had the ſaids Theeves and Reevers under their aſſu<g ref="char:EOLhyphen"/>rance; as the ſaid Act of Parliament, containing divers other clauſes, at length bears. Likeas, by the ſixth Act of the ſecond Seſſion of Our firſt Parliament, entituled, <hi>Act for ſuppreſſing of Thefts, Robbe<g ref="char:EOLhyphen"/>ries and Depredations,</hi> It is ſtatute, that whenſoever any oppreſſion, Hereſhips, Thefts or Depredations ſhall be committed within any part of this Kingdom, the Owner of the Goods away taken ſhall im<g ref="char:EOLhyphen"/>mediately give intimation thereof, after the taking away of the ſame, by himſelf or ſome in his name, to the Sheriff of the Shire or his Deputes, or any of Our Juſtices of Peace or Conſtables within the Paroch out of which the Goods are taken, who upon intima<g ref="char:EOLhyphen"/>tion foreſaid, are immediately ordained, under the pain of being lyable for the reſtitution of the Goods away taken or the value thereof, to command all fenſible perſons to concur in the purſute of the ſaids Goods and away takers thereof, under the pain fore<g ref="char:EOLhyphen"/>ſaid if they diſobey. And if the ſaids Theeves and Robbers ſhall happen to paſs through, or reſt in any other Paroch where the Juſtices of Peace, Conſtables and Heretors are able to ſtop and op<g ref="char:EOLhyphen"/>poſe the carrying away of the ſaids Goods; In that caſe, Our ſaid Juſtices of Peace, Conſtables or Heretors are ordained to make op<g ref="char:EOLhyphen"/>poſition, and ſeize upon the Goods and Drivers thereof, and to re<g ref="char:EOLhyphen"/>ſtore
+<pb n="6" facs="tcp:103109:4"/>the ſaids Goods, and to deliver and ſecure the away takers of ſame, that they may underly the Law. And if the committers of the ſaids Crimes be ſo numerous and powerful, that they cannot be ſtopped by the Inhabitants of the ſaid Paroch; then and in that caſe, the whole fenſible perſons are oblieged by the ſaid Act, under the pain foreſaid, to riſe in Arms and purſue them, and require all the fenſible perſons in any other Paroch they ſhall happen to paſs through, to joyn with them, under the pain and to the effec fore<g ref="char:EOLhyphen"/>ſaid: And if the purſuer of the Goods, after all his utmoſt endeavours, be not able to recover the ſame and apprehend the away takers; the Heretors, Wodſetters and Fewars of the Paroch where the Goods ſhall be found to be diſpoſed of or ſparpelled, are to be lyable for the value of the ſaids Goods, according to their ſeveral Intereſts. And farther, by the foreſaid Act it is ſtatute, that the In-bringer of every Robber and Theef, after he is out-lawed and denunced Fu<g ref="char:EOLhyphen"/>gitive, ſhall have two hundred pounds Scots for every Robber and Theef ſo in-brought, as the ſaid Act, proporting divers other Clauſes, at length bears. And whereas, the Lords of Our Privy Council, in pur<g ref="char:EOLhyphen"/>ſuance of the foreſaids Laws and Acts of Parliament, have found it neceſſar that not onely the Landlords and Chieftains of Claunes, ſhall give Bond and Caution for the ſecurity of the Peace, and quiet of the Highlands; But alſo, that the Heads of the ſeveral Branches of Families of theſe Clannes, ſhall give the like Bond and Caution themſelves, and for all they are lyable and obliegded to anſwer for by the Laws and Acts of Parliament; as alſo, for all theſe of their name deſcended of their Families. And albeit Our ſaids Laws and Acts of Parliament be many, and moſt ample and effectual to the intent foreſaid, for quieting and ſecuring of the peace of the Highlands and Iſles, and yet ſtanding in full force; yet, the Inhabi<g ref="char:EOLhyphen"/>tants and broken men within the ſaids bounds, being inured and accuſtomed to liberty and licentiouſneſs upon occaſion of the late troubles, and by reaſon that during the ſame, theforeſaids Laws have not been obſerved and put in execution; do ſtill preſume to ſorn, ſteal and oppreſs, and to commit other inſolencies and diſorders, to the contempt of Our Authority, and to the great hurt, prejudice and diſcouragement of Our good people and Subjects. Therefore, We, with advice of the Lords of Our Privy Council, have thought fit to declare Our Royal intention and reſolution, that the foreſaids Acts of Parliament abovementioned, and all other Laws and Acts of Parliament and Acts of Council, made for quieting the High<g ref="char:EOLhyphen"/>lands and Iſles, and for preventing, repreſſing and puniſhing diſ<g ref="char:EOLhyphen"/>orders within the ſame, ſhall be carefully obſerved and put in exe<g ref="char:EOLhyphen"/>cution againſt all perſons of whatſomever quality, who ſhall be found to have contraveened, or ſhall hereafter contraveen the ſaids Acts, or any Head or Article thereof; aſſuring all Our good Subjects, who ſhall find themſelves wronged or grieved by any perſon or perſons Inhabitants within the Highlands and Iſles; and that upon application to the Lords of Our Privy Council, they ſhall have Juſtice done to them with all expedition, and reparation and redreſs,
+<pb n="7" facs="tcp:103109:4"/>conform to Our Laws and Acts of Parliament; and that the Lords of Our Privy Council will interpoſe their Authority, that the Sen<g ref="char:EOLhyphen"/>tences and Decreets that ſhall be given and pronounced in favours of the ſaids perſons, either by the ſaids Lords of Our Privy Council, or by Our Juſtice General, or by any other competent Judicatory, for any wrong, crime or oppreſſion that ſhall be committed againſt them by any of the Inhabitants within the bounds foreſaids, ſhall receive vigorous and-ſpeedy execution. And in purſuance of Our Royal reſolution, We, with advice foreſaid, have ordained, that all Landlords and Bailiffs in the Highlands ſhall be charged to find ſufficient caution and ſoverty landed men in the In-countrey, to the contentment of the Lords of Our Privy Council, that they for themſelves, and all theſe for whom they are lyable and oblieged to anſwer by Our ſaids Laws and Acts of Parliament, ſhall keep Our peace; and that they ſhall not invade, trouble nor oppreſs any of Our Subjects in their Perſons, Lands, Poſſeſſions, Goods nor Geer but by order of Law and Juſtice; and that they ſhall be an<g ref="char:EOLhyphen"/>ſwerable to Juſtice, and ſatisfie parties skaithed conform to the Laws and Acts of Parliament, and under the pains contained therein, and alſo, under ſuch pecunial pains to be paid for Our uſe, as ſhall be appointed by the Lords of Our Privy Council, to be inſert in the Letters to be directed againſt them: And We have ordained Letters to be directed againſt the ſaids Landlords and Bailiffs, charging them to find the ſaid caution, under the pain of rebellion; And for relief of the Landlords and Bailiffs who have found or ſhall find the ſoverty foreſaid, Letters are ordained to be directed, charging ſuch perſons in ſpecial as the ſaids Landlords and Bailiffs ſhall give in in Bill, which are Vaſſals, Men-tennents or Servants to them, to find caution acted in the Books of Our Privy Council, that they ſhall free and relieve the ſaids Landlords and Bailiffs of the ſaid caution and ſoverty found for them, under the ſaid pain of rebellion. And further, We, with advice foreſaid, have ordained, that the Land<g ref="char:EOLhyphen"/>lords, Bailiffs, and Chieftains of Clannes contained in a Roll, (which is inſert in the end of this Our Proclamation) ſhall compear before the Lords of Our Privy Council upon the laſt Thurſday of <hi>February</hi> next upon this preſent exigent for the year enſuing, and upon the ſecond Thurſday of <hi>July</hi> yearly thereafter; and failzieing any of them by deceaſe; their Succeſſours in their Lands, Bailieries and Ju<g ref="char:EOLhyphen"/>riſdictions within the Highlands, and theſe who ſhall be Chieftains of the ſaid Clannes for the time, ſhall be oblieged to appear before the Lords of Our Privy Council yearly, the ſaid ſecond Thurſ<g ref="char:EOLhyphen"/>day of <hi>July;</hi> To the effect, that theſe who are lyable to give ſoverty may find the ſame, if it be not already found, and that they may give new caution if need be; and that the ſaids Landlords, Bailiffs and Chieftains of Clannes may receive ſuch orders and inſtructions as the ſaids Lords of Our Privy Council ſhall think fit to give, for keeping and preſerving the peace of the Highlands: With certification, that theſe who ſhal not appear the ſaid laſt Thurſday of <hi>February,</hi> and there<g ref="char:EOLhyphen"/>after the ſaid ſecond Thurſday of <hi>July</hi> yearly, before the Lords of
+<pb n="8" facs="tcp:103109:5"/>Our Privy Council, for their abſence and contumacy, ſhall be unlawed and ordained to pay, <hi>toties quoties,</hi> ſuch ſums as the ſaids Lords of Our Privy Council ſhall appoint; and ordains Letters of Horning, Poinding and others to be directed for the payment of the ſame; and this Proclamation being once lawfully publiſhed in manner after-mentioned, ſhall be ſufficient to obliege the ſaids Landlords, Bailiffs and Chieftains of Clannes to appear yearly before the ſaids Lords of Our Privy Council, without any other charge or citation. And further, We have ordained that the ſaids Landlords and Bailiffs, at their firſt appearance before Our Privy Council, at the day aforeſaid and yearly thereafter, ſhall bring with them, and give in exact Liſts and Rolls of all the men living in their bounds above the age of ſixteen years; and if they ſhall fail to give up any above the age foreſaid, they ſhall be eſteemed, cenſured and puniſhed as favourers and reſſetters of Theeves and broken men. And becauſe it may be pretended, that the ſaids Landlords, Bailiffs or Chieftains of Clannes, are or may be under Captions for debts, or ſome other civil cauſe, ſo that they cannot appear before the Council; There<g ref="char:EOLhyphen"/>fore, We, with advice foreſaid, are pleaſed to grant protection to all Landlords, Bailiffs and Chieftains of Clannes, who ſhall repair to Our Privy Council the ſaid laſt Thurſday of <hi>February</hi> next, and ſe<g ref="char:EOLhyphen"/>cond Thurſday of <hi>July</hi> the year enſuing, or in any other year there<g ref="char:EOLhyphen"/>after, in obedience to Our ſaid Order and Proclamation, or who ſhal be charged to find the caution foreſaid, by vertue of Letters direct againſt them to that purpoſe: So that if they dwell within the Shires of <hi>Stirling, Dumbartoun, Perth</hi> or <hi>Argyl,</hi> they ſhall have Our protection for fourteen days before, and fourteen days after the ſaid laſt Thurſday of <hi>February</hi> next, and ſecond Thurſday of <hi>July</hi> yearly, and any other particular day to which they are cited to appear for finding the ſoverty foreſaid; and for twenty days before, and twenty days after, if they dwell in any other of the Northern Shires; during which time it ſhall not be lawful to any Meſſenger or other Officer or Magiſtrate, to take or apprehend any of the ſaids per<g ref="char:EOLhyphen"/>ſons for debt or any other civil cauſe, by vertue of Letters of Caption, or any other precept or warrand: Certifying all Our Subjects, and in ſpecial the Landlords, Bailiffs and Chieftains of Clannes and the Inhabitants within the Highlands; that We and the Lords of Our Privy Council will proceed vigorouſly, and put in execution Our reſolution foreſaid, and the Laws and Acts of Parliament and Council concerning the Highlands and quieting thereof, and for preventing, repreſſing and puniſhing thefts, depredations, murders and other crimes, oppreſſion and diſorders within the ſame, and re<g ref="char:EOLhyphen"/>pairing and redreſſing the skaith and prejudice done to Our peace<g ref="char:EOLhyphen"/>able and good Subjects. And that all Landlords, Bailiffs and Chief<g ref="char:EOLhyphen"/>tains of Clannes contained in the ſaid Roll, who ſhall not appear before Our Privy Council the ſaid laſt Thurſday of <hi>February,</hi> and ſecond Thurſday of <hi>July</hi> next to come, and yearly thereafter, ſhall be eſteemed diſaffected to Our Authority, and to the peace and quiet of the Countrey, and ſhall be highly fyned and unlawed for their
+<pb n="9" facs="tcp:103109:5"/>abſence and contumacy, and otherwayes puniſhed as the ſaids Lords of Our Privy Council ſhall think fit, and their fynes ſhall be uplif<g ref="char:EOLhyphen"/>ted for Our uſe: And that all other Landlords, Bailiffs and others within the Highlands, who ſhall at any time be charged upon Let<g ref="char:EOLhyphen"/>ters to be directed by Our Privy Council to find the ſaid ſoverty for themſelves, and their Men-tennents and Servants for whom they are anſwerable, and ſhall diſobey and not find the ſame, ſhall be denunced to Our Horn, and ſhall be taken and incarcerate, and their eſcheats whole Goods and Geer ſhall be intromitted with and uplifted for Our uſe: And whenſoever any Theft, Depredations, Oppreſſions, or other crimes or diſorders ſhall be done or commit<g ref="char:EOLhyphen"/>ted by any Theeves, broken men or other Inhabitants within the ſaid Highlands, the pains contained in Our ſaids Laws and Acts of Parliament, and in the Letters directed againſt the Landlords, Bai<g ref="char:EOLhyphen"/>liffs and others for finding caution for themſelves, and theſe for whom they are anſwerable that they ſhall keep the peace, toge<g ref="char:EOLhyphen"/>ther with the reparation and redreſs due to the parties grieved, ſhall be ſeverely uplifted and exacted from the Landlords and Bai<g ref="char:EOLhyphen"/>liffs, who are obliged to anſwer for theſe who ſhall commit the ſaids crimes and diſorders, and the delinquents and committers thereof, their Complices, Aiders, Reſſetters, and theſe who ſhall ſupply or intercommune with them, ſhall be called and purſued criminally; and being convicted, ſhal be examplarly puniſhed according to Law; and if they be abſent, they ſhall be out-lawed and declared Fugi<g ref="char:EOLhyphen"/>tives and denunced, and ſhall be eſteemed and proſecuted as Re<g ref="char:EOLhyphen"/>bells and publick enemies to GOD, Our Authority, and Our true and faithful Subjects, and purſued with fire and ſword where ever they may be apprehended, without any crime, pain or hazard to be incurred by the doers thereof; And that We, and the ſaids Lords of Our Council, will take all other wayes that ſhall be thought ne<g ref="char:EOLhyphen"/>ceſſary or expedient to the end foreſaid, until the ſaid Highlands be fully quieted, and all Theeves, wicked, diſorderly and broken men be utterly rooted out and extirped. And farder, We with advice of the Lords of Our Council have thought fit, and do here<g ref="char:EOLhyphen"/>by require and command the perſons aftermentioned, Heads of the ſeveral branches of Clannes, who by reaſon of their mean condition are not able to come in to <hi>Edinburgh</hi> and find caution, to come to <hi>Inverlochy</hi> betwixt and the twenty day of <hi>November</hi> next, and there to give in bands of caution for themſelves, their Men-tennents, Ser<g ref="char:EOLhyphen"/>vants and Indwellers upon their lands, and all of their name deſcen<g ref="char:EOLhyphen"/>ded off their family, to the Earle of <hi>Caithneſs,</hi> Sir <hi>James Campbel</hi> of <hi>Lawyers, James Menzies</hi> of <hi>Culdaures,</hi> or any two of them, Who are hereby commiſſionate for receiving of the ſaids bands conform to the liſt hereunto ſubjoyned; with certification to the ſaids perſons, or any of them who ſhall not compear before Our ſaids Commiſſio<g ref="char:EOLhyphen"/>ners betwixt and the day foreſaid, or compearing ſhall refuſe to give in the ſaid band, they ſhal be called before Our Council, purſued and puniſhed as fugitives and outlaws, and diſturbers of the publick peace. And the ſaids Commiſſioners are hereby allowed to give them pro<g ref="char:EOLhyphen"/>tection
+<pb n="10" facs="tcp:103109:6"/>in manner and for the ſpace foreſaid. And ordains theſe preſents to be Printed, and publiſhed at the Mercat Croſſes of the head Burghs of the ſeveral Shires of this Kingdom; As aſo, to be read at the whole Paroch Churches upon a Sabbath after Divine Service, that none pretend ignorance. Given under Our ſignet at <hi>Edinburgh,</hi> the tenth day of <hi>October,</hi> 1678. and of Our reign the thirtieth year.</p>
+            <p>
+               <hi>A liſt of the names of the Landlords and Chieftains of Clannes that are to compear before the Council upon the laſt Thurſday of February next, and upon the ſecond Thurſday of July yearly thereafter.</hi>
+            </p>
+            <p>The Laird of <hi>Luſs,</hi> the Laird of <hi>Buchannan,</hi> the Laird of <hi>Mack<g ref="char:EOLhyphen"/>farland,</hi> the Earl of <hi>Perth,</hi> the Marqueſs of <hi>Athol, Robert Camphel</hi> of <hi>Glenlyon, Alexander Robertſone</hi> of <hi>Strowan,</hi> Sir <hi>Alexander Menzies</hi> of <hi>Weyme, John Campbel</hi> of <hi>Fordell, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Campbel</hi> of <hi>Glenfalloch,</hi> the Earl of <hi>Argyle</hi> for himſelf, and his whole Fewars and Vaſſals, The Laird of <hi>Mclean, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mclean</hi> of <hi>Lochbowy,</hi> the Captain of <hi>Clanronnald,</hi> the Lord <hi>Mcdonald,</hi> the Marqueſs of <hi>Huntley</hi> for himſelf, and his whole Fewars and Vaſ<g ref="char:EOLhyphen"/>ſals, the Laird of <hi>Mcintoſch</hi> for his whole Fewars and Vaſſals, the Laird of <hi>Grant,</hi> the Lord <hi>Rae,</hi> the Earl of <hi>Seaforth,</hi> the Earl of <hi>Sutherland,</hi> Sir <hi>James Mckdonald</hi> of <hi>Slait,</hi> the Laird of <hi>Mckleod,</hi> the Earle of <hi>Murray,</hi> the Earl of <hi>Mar,</hi> the Lord <hi>Lovat,</hi> the Earl of <hi>Airth,</hi> the Earl of <hi>Aboyne,</hi> the Earl of <hi>Airlie,</hi> the Earl of <hi>Caithneſs,</hi> the Laird of <hi>Lochyell,</hi> the Laird of <hi>Edyell,</hi> the Laird of <hi>Alter,</hi> the Laird of <hi>Ballingoun,</hi> the Laird of <hi>Foules,</hi> the Laird of <hi>Pluſeardie,</hi> the Laird of <hi>Tarbet,</hi> the Laird of <hi>Cromarty,</hi> the Laird of <hi>Mckgregour,</hi> the Laird of <hi>Mckmartine,</hi> the Laird of <hi>Lawers,</hi> the Laird of <hi>Gairntully,</hi> and the Laird of <hi>Drum.</hi>
+            </p>
+            <p>
+               <hi>A list of the Names of the Heads and Branches of Families, that are to come to</hi> Innerlochy, <hi>and give Bond to the Commiſſioners of Council, betwixt and the twenty day of</hi> November <hi>next.</hi>
+            </p>
+            <p>
+               <hi>Archihald Mcknab</hi> of <hi>Aucharne, Patrick Mckgrigor</hi> in <hi>Brachlich, Findlay Mcknab</hi> of <hi>Inſhewen, Donald Glaſs-Mckgregor</hi> now in the Brae of <hi>Balqu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idder, Dowgal Mcgregor</hi> in <hi>Kyletten, Duncan Roy-Drumond,</hi> alias <hi>Mckgregor</hi> in <hi>Dindorn, Gregor Mckgregor</hi> in <hi>Rora, Ewin Cameron</hi> of <hi>Calort, Angus Campbel</hi> in <hi>Innerlochie, Donald Cameron</hi> of <hi>Teirlundy, John Cameron</hi> of <hi>Tomacharich, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Cameron</hi> of <hi>Letterfindley, Angus Cameron</hi> in <hi>Kenlochlyon, Angus Ca<g ref="char:EOLhyphen"/>meron</hi> of <hi>Ratolichmoir, Donald Cameron</hi> of <hi>Ratolichbeg, Angus Ca<g ref="char:EOLhyphen"/>meron</hi> in <hi>Balacherne, John Cameron</hi> of <hi>Inſhrie, Donald Cameron</hi> of <hi>Blairmafulich, Dowgal Mcklauchlane</hi> in <hi>Cornonan, Ewin Cameron</hi> of <hi>Lindallie, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Cameron</hi> of <hi>Eracht, John Cameron</hi> of <hi>Stron, Donald Cameron</hi> Tutor of <hi>Lochyel, John</hi> and <hi>Ewin Camerons</hi> his ſons, <hi>Ewin Mckaphie</hi> alias <hi>Viccondachie, Vic Ewin Glendeſher, John Cameron</hi> alias <hi>Mckewin</hi> in <hi>Murlagen</hi> in <hi>Locherkek, Alexander Ca<g ref="char:EOLhyphen"/>eron,</hi> in <hi>Innerwallie, John Cameron,</hi> alias <hi>Mckonneil, Vic-ean-dui</hi> in
+<pb n="11" facs="tcp:103109:6"/>
+               <hi>Drumnaſyle, John Cameron</hi> of <hi>Glenevis, Soreley Cameron</hi> in <hi>Finnart, Archibald Mcdonald</hi> of <hi>Keapoch, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mckdonald</hi> of <hi>Therſit, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mckdonald</hi> of <hi>Bohantin,</hi> and his eldeſt ſon, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Mckdonald of Killihonat, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mckdonald</hi> of <hi>Tullich, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mcdonald</hi> in <hi>Innereimoir, Angus Kennedy</hi> in <hi>Ry<g ref="char:EOLhyphen"/>nathen, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mcdonald</hi> of <hi>Moy, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mcdonald</hi> of <hi>Teirnadiſh, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mcdonald</hi> of <hi>Annat, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mcdonald</hi> of <hi>Inſch, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mcdonald</hi> of <hi>Auchnacoichen, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mcdonald</hi> in <hi>Polvig</hi> in <hi>Glenco, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mcdonald</hi> of <hi>Auchtriatin, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mcdonald</hi> in <hi>Breckled,</hi> and his ſon, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Mcdonald</hi> in <hi>Killiſneycon, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mcdonald</hi> in <hi>Larich, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mcdonald</hi> his bro<g ref="char:EOLhyphen"/>thers ſon, <hi>Alexander Ferquharſone</hi> of <hi>Wardhouſe, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Ferquhar<g ref="char:EOLhyphen"/>ſon</hi> of <hi>Monaltrie, John Ferquharſone</hi> of <hi>Innerey, Duncan Mcpherſon</hi> of <hi>Cluny, John Mcpherſon</hi> in <hi>Shira, Duncan Stewart</hi> of <hi>Appin, Dow<g ref="char:EOLhyphen"/>gal Stewart</hi> of <hi>Inſcherich, Robert Stewart</hi> of <hi>Ardvorlich, Duncan Stewart</hi> of <hi>Bellachallen, Alexander Stewart</hi> of <hi>Annat, James Stewart</hi> in <hi>Glenbokie, William Mackintoſh</hi> of <hi>Borlum, Alexander Mack<g ref="char:EOLhyphen"/>intoſh</hi> of <hi>Connage, Donald Mackintoſh</hi> of <hi>Kellachy,</hi> the Laird of <hi>Mackfarlane, Macolme Mackfarlan</hi> of <hi>Glentiren, John Buchannan</hi> of <hi>Lenie, Thomas Frazer</hi> of <hi>Ardachy, Thomas Frazer</hi> of <hi>Little-glendo, John Frazer</hi> Fiar thereof, <hi>Hugh Frazer</hi> of <hi>Kilbokie, James Frazer</hi> of <hi>Drumbaloch, Donald Frazer</hi> of <hi>Drumond, Donald Frazer</hi> of <hi>Little-garth, Hugh Frazer</hi> of <hi>Strowie, Donald Frazer</hi> of <hi>Erchit, Malcolme Frazer</hi> of <hi>Culduthel, John Frazer</hi> of <hi>Knock<g ref="char:EOLhyphen"/>chyllalen, William Frazer</hi> of <hi>Foyer, Donald Mackilwrey,</hi> Tutor of <hi>Drumnaglaſs, Paul Mackbane</hi> of <hi>Kinhail, Wil<g ref="char:EOLhyphen"/>liam Forbes</hi> of <hi>Skellater, Thomas Grant</hi> of <hi>Balmakain, John Mckintoſh</hi> of <hi>Forther, James Grant</hi> of <hi>Rothiemurchus, Robert Grant</hi> of <hi>Badivochil, John Grant</hi> of <hi>Coneachen, John Grant</hi> of <hi>Glenmorie<g ref="char:EOLhyphen"/>ſtoun, John Grant</hi> of <hi>Crimonie, Robert Grant</hi> of <hi>Dalvey, John Grant</hi> of <hi>Glenlochy, Hugh Roſs</hi> of <hi>Kilraach, James Grant</hi> of <hi>Aucher<g ref="char:EOLhyphen"/>nicke, Patrick Grant</hi> of <hi>Tullichgorum, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Grant</hi> of <hi>Garinbeg, James Mcknab</hi> in <hi>Kirktoun</hi> of <hi>Straphillen, James Fer<g ref="char:EOLhyphen"/>quharſon</hi> of <hi>Camdel, John Grant</hi> of <hi>Carren,</hi> and <hi>Allan Grant</hi> of <hi>Tulloch.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Al. Gibſon,</hi> Cls. Sti. Concilii.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to the King's moſt Sacred MAJESTY, 1678.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
